@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Controla as regras e o estado do jogo.
- */
 public class Jogo {
 
     private static final int NIVEL_MAXIMO = 4;
