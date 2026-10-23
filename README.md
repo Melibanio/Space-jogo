@@ -4,7 +4,7 @@ Jogo de tiro com tema espacial feito em **Java** com **JavaFX**, como trabalho d
 
 Você controla uma nave e tem que **destruir os meteoros** antes que eles passem.
 
-Feito por: **Murilo328**
+Feito por: **Melibanio**
 
 ---
 
@@ -29,7 +29,7 @@ Você precisa ter o **Java** e o **Maven** instalados.
 
 1. Baixe o projeto (ou clone):
    ```bash
-   git clone https://github.com/Murilo328/Projeto-Diamante2.git
+   git clone https://github.com/Melibanio/space-jogo.git
    ```
 2. Entre na pasta do projeto (onde fica o `pom.xml`).
 3. Rode:
